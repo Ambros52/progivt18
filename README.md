@@ -1,2 +1,3 @@
-"# progivt18" 
-ver 2
+function D(a, b, c) {
+    return b*b - 4*a*c;
+}

@@ -11,7 +11,7 @@ function kvadr() {
 	  } else if (d > 0) {
 	  	    var x1 = -b/2/a+Math.sqrt(d);
 	        var x2 = -b/2/a-Math.sqrt(d);
-	        alert("x1 = " + x1 + "\n" + "x2 = " + x2);
+	        alert("D = " + d + "\n" + "x1 = " + x1 + "\n" + "x2 = " + x2);
 	    } else {
 	    	alert("Enter a number please")
 	    }
